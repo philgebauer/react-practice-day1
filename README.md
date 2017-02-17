@@ -12,3 +12,5 @@ Create an app using React that finds interviews from musicians on either Youtube
 - React
 - React Materials UI
 - Youtube / Soundcloud / Spotify APIs
+
+** Getting Started
